@@ -4,6 +4,7 @@
 #include "Random.h"
 #include <fstream>
 #include <climits>
+#include <algorithm>
 #include <bitset>
 #include <deque>
 
