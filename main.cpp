@@ -5,6 +5,7 @@
 #include <bitset>
 #include <unistd.h>
 #include <cstring>
+#include <climits>
 #include "Random.h"
 #include "MM.h"
 #include "Instruction.h"

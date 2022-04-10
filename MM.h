@@ -3,6 +3,7 @@
 #include <stdio.h>
 #include "Random.h"
 #include <fstream>
+#include <climits>
 #include <bitset>
 #include <deque>
 
