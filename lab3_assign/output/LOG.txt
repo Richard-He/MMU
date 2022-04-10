@@ -1,0 +1,1 @@
+gradeit.sh ../refout ../output ../output/LOG.txt
